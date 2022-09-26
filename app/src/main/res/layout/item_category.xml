@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_view"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        app:cardCornerRadius="180dp"
+        tools:strokeColor="@color/pink_main"
+        tools:strokeWidth="4dp">
+
+        <ImageView
+            android:id="@+id/imageViewCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:scaleType="center"
+            tools:srcCompat="@drawable/category_6" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/categoryName"
+        style="@style/TextView_Secondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thrifty Shop"
+        android:textSize="12sp"
+        android:layout_gravity="center"
+        app:fontFamily="@font/lato"
+        app:textAllCaps="false" />
+</androidx.appcompat.widget.LinearLayoutCompat>

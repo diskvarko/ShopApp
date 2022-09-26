@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="password_forgot">Forgot password?</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">sign up</string>
+    <string name="hello">Hello!</string>
+    <string name="introduce">Let’s Introduce</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="name_hint">Your full name</string>
+    <string name="date_birth_hint">Date of birth</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="profile">"profile"</string>
+    <string name="home">"home"</string>
+    <string name="card">"card"</string>
+    <string name="favorite">"favorite"</string>
+</resources>

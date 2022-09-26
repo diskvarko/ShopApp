@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/border.xml" value="0.1606837606837607" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_bag.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_calendar_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_home_outline.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_msg.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_profile.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/ic_user_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/rectangel.xml" value="0.36875" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/search_view.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/drawable/shapes.xml" value="0.3828125" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/forgot_password_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/item_category.xml" value="0.6" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/item_product.xml" value="0.25" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/main_screen_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/layout/register_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Skvarko_DU/AndroidStudioProjects/ShopApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
